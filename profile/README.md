@@ -9,7 +9,7 @@
 
 - 👯 Weare looking to collaborate on [Ramadan networks](interactive)￼￼￼
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect US:</h3>
 <p align="left">
 <a href="https://discord.gg/Y94kqCk7Ra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Y94kqCk7Ra" height="30" width="40" /></a>
 </p>
