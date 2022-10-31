@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramadansemiconductor-tech-holdings-llc" alt="ramadansemiconductor-tech-holdings-llc" /></a> </p>
 
-- 🔭 I’m currently working on [Ramadan](client)
+- 🔭 📈📈WE currently working on [Ramadan](client)￼￼￼
 
-- 👯 I’m looking to collaborate on [Ramadan networks](interactive)
+- 👯 Weare looking to collaborate on [Ramadan networks](interactive)￼￼￼
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
